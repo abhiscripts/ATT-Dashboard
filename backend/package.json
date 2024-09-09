@@ -1,0 +1,13 @@
+{
+  "name": "att-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Appscript backend code will go here",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clasp:push": "clasp push",
+    "clasp:deploy": "clasp deploy --description DEV Dashboard --deploymentId AKfycbw2oEhbeFMizr-FdkAZUAw1rSyQx2uQcLsDKZrp6x7Au2mkeePXhAhKbECvrni9QJJaSg"
+  },
+  "author": "Abhishek",
+  "license": "ISC"
+}
